@@ -16,4 +16,4 @@ print(greeting)
 print(cars)
 print(countries)
 
-#Typecasting
+#Typecasting - changing a value from one datatype to another
